@@ -1,0 +1,68 @@
+
+
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px){
+/*counter up start*/
+.counter_modify{
+        margin: 5% 0% 5% 45%;
+}
+/*conter up end*/
+	
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px){
+/*counter up start*/
+.counter_modify{
+    margin: 5% 0% 5% 46%;
+}
+/*conter up end*/
+}
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/*counter up start*/
+.counter_modify{
+    margin: 5% 0% 5% 46%;
+}
+/*conter up end*/
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+/*counter up start*/
+.counter_modify{
+    margin: 10% 0% 9% 43%;
+}
+/*conter up end*/
+	
+}	
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+/*counter up start*/
+.counter_modify{
+    margin: 10% 0% 9% 43%;
+}
+/*conter up end*/
+	
+}	
+}
+
+@media (min-width: 1400px) and (max-width: 1699.98px) { 
+	
+
+}
+
+@media (min-width: 1700px) and (max-width: 1999.98px) { 
+
+
+}
+
+
+/*Extra Etra large devices (large desktops, 1200px and up)*/
+@media (min-width: 2000px) { 
+	
+}
+
